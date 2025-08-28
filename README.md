@@ -81,12 +81,6 @@ streamlit run app.py
 
 5. **Open in your browser** and upload a vehicle image to see instant results.
 
----
-
-## 💡 Example Output
-
-![App Screenshot](./screenshots/app_screenshot.png) <!-- Replace with your actual screenshot -->
-
 ```
 Damage: Front Breakage
 Confidence: 97.5%
@@ -128,4 +122,5 @@ Link: https://vehicle-damage-detection.streamlit.app/
 ## 👨‍💻 Author
 Imran Chowdhury
 Data Scientist | AI Enthusiast
+
 
