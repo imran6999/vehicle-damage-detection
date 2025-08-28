@@ -120,8 +120,7 @@ Link: https://vehicle-damage-detection.streamlit.app/
 
 
 ## 👨‍💻 Author
-Imran Chowdhury
+Imran Chowdhury<br>
 Data Scientist | AI Enthusiast
-
 
 
