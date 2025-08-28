@@ -1,4 +1,6 @@
 import streamlit as st
+import os
+os.environ["STREAMLIT_WATCHDOG_DISABLE"] = "true"
 from model_helper import predict
 
 st.set_page_config(page_title="Vehicle Damage Detection", layout="centered")
@@ -44,3 +46,4 @@ if uploaded_file:
     }
 
     st.success(recommendations.get(damage, "ℹ️ No recommendation available."))
+
