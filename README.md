@@ -115,12 +115,13 @@ Link: https://vehicle-damage-detection.streamlit.app/
 
 <!-- Add screenshots or GIFs of this app here -->
 
-![Upload Interface](appscreenshot.jpg.png)
+![Upload Interface](app_screenshot.jpg.png)
 
 
 
 ## 👨‍💻 Author
 Imran Chowdhury
 Data Scientist | AI Enthusiast
+
 
 
